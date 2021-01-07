@@ -27,7 +27,7 @@ int main()
         if(r == 0){
         GCD = b;
         break;
-        }
+
         //0이 아니면
         a = b;
         b = r;
