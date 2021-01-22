@@ -13,7 +13,6 @@ int main(){
             cnt ++;
 
             //i는 cnt번째로 작은 약수이다.
-
             if(cnt == k){
                 printf("%d\n", i);
                 flag = 1;
